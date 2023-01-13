@@ -1,0 +1,5 @@
+'''My first program for Comp 110'''
+
+_author_ = 730571026
+
+print("Hello, world.")
